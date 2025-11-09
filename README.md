@@ -8,7 +8,7 @@
 > A fully interactive, ultra-modern Snake Game built with pure **HTML, CSS, and JavaScript** — no external frameworks.  
 > Sleek, dark, and futuristic with glowing effects and smooth transitions.
 
-🎮 **Play Online:** [🔗 www.github.snake.com](https://www.github.snake.com)  
+🎮 **Play Online:** [🔗 www.github.snake.com](https://mohitscodiclab.github.io/Modern-Snake-Game/)  
 💻 **Note:** This game is **available only for PC** (desktop/laptop browsers).
 
 ---
